@@ -35,7 +35,6 @@ app.post('/identify', async (req: Request, res: Response) => {
     });
 
     if (matchingContacts.length === 0) {
-      // No matches, create a new primary contact
       const newContact = await prisma.contact.create({
         data: {
           email,
