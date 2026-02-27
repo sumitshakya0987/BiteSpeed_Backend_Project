@@ -3,7 +3,7 @@
 Mission: Help Doc Brown consolidate customer identities on FluxKart.com by linking multiple purchases with overlapping contact information into a single customer profile.
 
 ## 🚀 Live Endpoint
-**[https://bitespeed-backend-project-zsh6.onrender.com/identify](https://bitespeed-backend-project-zsh6.onrender.com/identify)**
+**[https://bitespeed-backend-project-zsh6.onrender.com/](https://bitespeed-backend-project-zsh6.onrender.com/)**
 *Hosted on Render*
 
 ## 🛠️ Tech Stack

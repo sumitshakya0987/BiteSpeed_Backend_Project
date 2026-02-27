@@ -1,6 +1,6 @@
 const axios = require('axios');
 
-const BASE_URL = 'http://localhost:3000';
+const BASE_URL = 'https://bitespeed-backend-project-zsh6.onrender.com';
 
 async function testIdentify(payload) {
     try {
