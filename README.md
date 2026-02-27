@@ -65,10 +65,3 @@ Run the included test script to verify reconciliation logic:
 ```bash
 node tests/test-identify.js
 ```
-
-## 🚢 Deployment (Render)
-1. Push this code to a GitHub repository.
-2. Connect the repository to **Render.com** (Web Service).
-3. Set **Build Command**: `npm install && npm run build`
-4. Set **Start Command**: `npx prisma generate && npm run start`
-5. Add your `.env` variables in the Render dashboard.
